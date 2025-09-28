@@ -1,0 +1,11 @@
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.Form1.resources
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\bin\Debug\Exercise_2.exe
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.exe
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.pdb
+C:\Users\user1\source\repos\Exercise_2\Exercise_2\obj\Debug\Exercise_2.exe.config
